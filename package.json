@@ -1,0 +1,21 @@
+{
+  "name": "tooltipster",
+  "version": "1.0.0",
+  "description": "tooltipster", 
+  "keywords": [
+    "tooltipster",
+    "tooltip"
+  ],
+  "author": "Louis Ameline",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHanlin/tooltipster.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "js/jquery.tooltipster.js"
+}
