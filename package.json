@@ -1,6 +1,6 @@
 {
   "name": "tooltipster",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "tooltipster", 
   "keywords": [
     "tooltipster",
@@ -17,5 +17,5 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "main": ["js/jquery.tooltipster.js", "css/tooltipster.css"]
+  "main": "js/jquery.tooltipster.js"
 }
