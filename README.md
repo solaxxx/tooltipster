@@ -1,3 +1,14 @@
+==========
+author
+
+author Louis Ameline
+author link https://github.com/louisameline
+
+===========
+此軟件作者是 Louis Ameline
+
+這裡只是把該軟件上發佈於 npm
+
 Tooltipster
 ===========
 
