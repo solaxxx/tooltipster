@@ -1279,4 +1279,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		}
 		return false;
 	}
+	if(!window.Tooltipster){
+		window.Tooltipster = Tooltipster;
+	}
+	
+	if(typeof(module)!= "undefined"){
+		module.exports = Tooltipster;
+	}
 })( jQuery, window, document );
