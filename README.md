@@ -1,13 +1,15 @@
 ==========
 author
-
 author Louis Ameline
 author link https://github.com/louisameline
 
+fork https://github.com/iamceege/tooltipster
+
 ===========
 此軟件作者是 Louis Ameline
+此軟件來自於 https://github.com/iamceege/tooltipster
 
-這裡只是把該軟件上發佈於 npm
+這裡只產生了一個  npm 使用的 package.json 並發佈於 npm 給予npm使用者使用。
 
 Tooltipster
 ===========
